@@ -9,7 +9,7 @@ https://www.buymeacoffee.com/taurenshaman
 [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://www.buymeacoffee.com/taurenshaman)
 
 ### Patreon
-https://www.patreon.com/bePatron?u=4218972
+https://www.patreon.com/taurenshaman
 
 ### PayPal
 https://www.paypal.me/taurenshaman
