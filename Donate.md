@@ -1,4 +1,4 @@
-After donation please submit a issue with label "donate". Thank you very much!
+After donation please submit a issue with label "donation". Thank you very much!
 
 ### Alipay
 taurenshaman@outlook.com  
