@@ -1,6 +1,6 @@
 After donation please submit a issue with label "donation". Thank you very much!
 
-### Alipay
+### Alipay | 支付宝
 taurenshaman@outlook.com  
 Full name: 李晓喆
 
@@ -11,5 +11,8 @@ https://www.buymeacoffee.com/taurenshaman
 ### Patreon
 https://www.patreon.com/taurenshaman
 
-### PayPal
+### PayPal | 贝宝
 https://www.paypal.me/taurenshaman
+
+### 爱发电
+http://afdian.net/@taurenshaman
