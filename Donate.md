@@ -18,3 +18,10 @@ https://www.patreon.com/taurenshaman
 
 ### 爱发电
 http://afdian.net/@taurenshaman
+
+
+# Encrypted currency
+
+* [OpenBazaar](https://openbazaar.com/QmUxXaQ4UTF4q2LjFiBuJyJB4H7tFEdh2AsGz7JmLi22yE/store)
+
+* ETH: 0x2bA1473Cb3973C288312a92FB8930bB0aF2cAe02
