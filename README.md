@@ -8,4 +8,5 @@
 * Touch Mind: [Mind](https://github.com/taurenshaman/mind), [徐公子胜治](https://github.com/taurenshaman/xugongzishengzhi)
 
 ### ❤ Donation
-[BuyMeACoffee](https://www.buymeacoffee.com/taurenshaman) | [Patreon](https://www.patreon.com/taurenshaman) | [爱发电](http://afdian.net/@taurenshaman)
+* [BuyMeACoffee](https://www.buymeacoffee.com/taurenshaman) | [Patreon](https://www.patreon.com/taurenshaman) | [爱发电](http://afdian.net/@taurenshaman) | [More...](https://github.com/taurenshaman/taurenshaman/blob/master/Donate.md)
+* [OpenBazaar](https://openbazaar.com/QmUxXaQ4UTF4q2LjFiBuJyJB4H7tFEdh2AsGz7JmLi22yE/store)
