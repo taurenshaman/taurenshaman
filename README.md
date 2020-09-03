@@ -6,3 +6,6 @@
 * Personal Token: [EP@matataki](https://matataki.io/token/67)
 * Working at: [Tuna Tech @ Hangzhou](http://ituna.ltd)
 * Touch Mind: [Mind](https://github.com/taurenshaman/mind), [徐公子胜治](https://github.com/taurenshaman/xugongzishengzhi)
+
+### ❤ Donation
+[BuyMeACoffee](https://www.buymeacoffee.com/taurenshaman) | [Patreon](https://www.patreon.com/taurenshaman) | [爱发电](http://afdian.net/@taurenshaman)
