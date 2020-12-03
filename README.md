@@ -9,5 +9,5 @@
 * ❤ Images: [veins.skiasharp](https://github.com/taurenshaman/veins.skiasharp) | [veins.p5](https://github.com/taurenshaman/veins.p5) | [ImageHash](https://github.com/taurenshaman/imagehash) | [SemanticImage](https://github.com/taurenshaman/SemanticImage)
 
 ### ❤ Donation
-* [BuyMeACoffee](https://www.buymeacoffee.com/taurenshaman) | [Patreon](https://www.patreon.com/taurenshaman) | [爱发电](http://afdian.net/@taurenshaman) | [More...](https://github.com/taurenshaman/taurenshaman/blob/master/Donate.md)
+* [BuyMeACoffee](https://www.buymeacoffee.com/taurenshaman) | [Patreon](https://www.patreon.com/taurenshaman) | [爱发电](http://afdian.net/@taurenshaman) | [面包多](https://dun.mianbaoduo.com/@jerin) | [More...](https://github.com/taurenshaman/taurenshaman/blob/master/Donate.md)
 * [OpenBazaar](https://openbazaar.com/QmUxXaQ4UTF4q2LjFiBuJyJB4H7tFEdh2AsGz7JmLi22yE/store)
