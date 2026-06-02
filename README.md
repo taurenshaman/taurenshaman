@@ -1,5 +1,6 @@
 ### taurenshaman | whispering wolves
 
+* [aman](https://github.com/13f/aman): agent man - an events driven agent framework.
 * Hello Semantics: [Semantic Web](https://github.com/taurenshaman/semantic-web), [SemanticImage](https://github.com/taurenshaman/SemanticImage)
 * Hello: [Chuci](https://github.com/taurenshaman/hello-chuci) & [Lore](https://github.com/taurenshaman/hello-lore)
 * Personal knowledge base: [@Lore](https://lore.chuci.info/taurenshaman)
